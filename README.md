@@ -146,4 +146,5 @@ The following is a summary of what was done in this project:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can be seen from the graph, prediction results can can follow the movement from test set. But, there are some points of prediction result which is quite big different from the actual sets (for example at the first or initial data point).
 </p>
 
-For details you can check my code : [Sentiment Analysis 'Online Lectures' in Indonesia.ipynb](https://github.com/rifkyahmadsaputra/Sentiment-Analysis-Online-Lectures-in-Indonesia/blob/main/Sentiment%20Analysis%20'Online%20Lectures'%20in%20Indonesia.ipynb)
+For details you can check my code : [Prediction Bitcoin Price with Gated Recurrent Unit (RNN).ipynb](https://github.com/rifkyahmadsaputra/prediction-btc-with-gru/blob/master/Prediction%20Bitcoin%20Price%20with%20Gated%20Recurrent%20Unit%20%20(RNN).ipynb)
+
