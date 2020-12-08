@@ -57,9 +57,9 @@ The following is a summary of what was done in this project:
 </p>
 <p align="center"> 
  <img src="images/data.png" /> 
- <img src="images/information of data.png" /> 
- Informations of data
+ <img src="images/information of data.png" />
  <br></br>
+ Informations of data
 </p>
 
 <p align = "justify"> 
@@ -67,21 +67,25 @@ The following is a summary of what was done in this project:
 </p>
 <p align="center"> 
  <img src="images/bitcoin price graph.png" /> 
- Bitcoin price graph
  <br></br>
+ Bitcoin price graph
 </p>
 
 <p align = "justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Afterthat, I do min-max normalization and data partition. Dataset separated into 3 partitions that is training, validation and test sets with composision : 70% for training, 10% for validation and 20% test sets.
 </p>
 <p align="center"> 
- <img src="images/training data graph.png" /> 
- Training data graph
- <img src="images/validation data graph.png" /> 
- Validation data graph
- <img src="images/test data graph.png" /> 
- Test data graph
+ <img src="images/training data graph.png" />
  <br></br>
+ Training data graph
+ <br></br>
+ <img src="images/validation data graph.png" /> 
+ <br></br>
+ Validation data graph
+ <br></br>
+ <img src="images/test data graph.png" /> 
+ <br></br>
+ Test data graph
 </p>
 <p align = "justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Afterthat, I change format dataset from sequential into sliding windows format. In this prediction model, I used the sliding windows with two lag or length.
@@ -120,7 +124,7 @@ The following is a summary of what was done in this project:
 <p align="center"> 
  <img src="images/rmse and mape.png" /> 
  <br></br>
- Root Mean Square Error and Mean Absolute Percentage Error
+ Root Mean Square Error and Mean Absolute Percentage Error Values
 </p>
 
 <p align = "justify"> 
@@ -129,8 +133,11 @@ The following is a summary of what was done in this project:
 
 <p align="center"> 
  Table comparasion data actual and data prediction
- <img src="images/table comparasion data actual and data prediction.png" /> 
+  <br></br>
+ <img src="images/table comparasion data actual and data prediction.png" />
+  <br></br>
  <img src="images/graph comparasion data actual and data prediction.png" /> 
+  <br></br>
  Graph comparasion data actual and data prediction
  <br></br>
 </p>
