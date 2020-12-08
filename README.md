@@ -46,6 +46,7 @@
 <p align = "justify"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can be seen from the graph, prediction results can can follow the movement from test set. But, there are some points of prediction result which is quite big different from the actual sets (for example at the first or initial data point).
 </p>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Summary
