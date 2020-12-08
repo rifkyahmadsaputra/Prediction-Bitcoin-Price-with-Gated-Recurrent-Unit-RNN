@@ -34,8 +34,11 @@
 
 <p align="center"> 
  Table comparasion data actual and data prediction
- <img src="images/table comparasion data actual and data prediction.png" /> 
+  <br></br>
+ <img src="images/table comparasion data actual and data prediction.png" />
+  <br></br>
  <img src="images/graph comparasion data actual and data prediction.png" /> 
+  <br></br>
  Graph comparasion data actual and data prediction
  <br></br>
 </p>
