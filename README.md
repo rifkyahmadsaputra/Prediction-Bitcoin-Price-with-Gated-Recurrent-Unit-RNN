@@ -1,4 +1,4 @@
-# Prediction bitcoin price from 2014 to 2020 with Gated Recurrent Unit (RNN)
+# Prediction Bitcoin Price with Gated Recurrent Unit (RNN)
 
 ## Introduction
 <p align = "justify">
